@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/P_vhdl_Vi/ADC_AFE_ISERDESE3_KRIA2/ADC_AFE_ISERDESE3_KRIA2.srcs/sources_1/new/KRIA_IDDRE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'KRIA_IDDRE'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/P_vhdl_Vi/ADC_AFE_ISERDESE3_KRIA2/ADC_AFE_ISERDESE3_KRIA2.srcs/sim_1/new/kriaSimulation.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'kriaSimulation'

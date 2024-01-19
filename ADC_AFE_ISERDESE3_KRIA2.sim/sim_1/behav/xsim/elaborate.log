@@ -1,0 +1,28 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot kriaSimulation_behav xil_defaultlib.kriaSimulation -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-9180] module 'SIP_ISERDESE3_D1' is instantiated multiple times from VHDL or from both Verilog and VHDL; elaboration result may be incorrect [/wrk/ci/prod/2022.2/rdi_builds/continuous/2022_10_14_3671981/data/secureip/iserdese3_d1/iserdese3_d1_001.vp:16]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package unisim.vcomponents
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package vl.vl_types
+Compiling architecture ibufds_v of entity unisim.IBUFDS [\IBUFDS(1,4)(1,4)(1,9)(1,5)(1,1)...]
+Compiling architecture bufg_v of entity unisim.BUFG [bufg_default]
+Compiling architecture mmcme3_adv_v of entity unisim.MMCME3_ADV [\MMCME3_ADV(clkfbout_mult_f=2.0,...]
+Compiling architecture mmcme3_base_v of entity unisim.MMCME3_BASE [\MMCME3_BASE(clkfbout_mult_f=2.0...]
+Compiling architecture bufgce_div_v of entity unisim.BUFGCE_DIV [\BUFGCE_DIV(bufgce_divide=7)(1,4...]
+Compiling architecture iserdese3_v of entity unisim.ISERDESE3 [\ISERDESE3(is_clk_b_inverted='1'...]
+Compiling architecture behavioral of entity xil_defaultlib.KRIA_IDDRE [kria_iddre_default]
+Compiling architecture behavioral of entity xil_defaultlib.kriasimulation
+Built simulation snapshot kriaSimulation_behav
